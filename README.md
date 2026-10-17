@@ -1,4 +1,4 @@
-# Assignment 5 - ShowTime (PS6)
+# Assignment 5 - ShowTime (PS6) - Web Assignment
 
 ## Project Information
 
@@ -19,8 +19,6 @@
 - `/shows/:id` - Show detail page showing poster, summary, genres, rating, and cast list
 - `/about` - About page explaining the application
 - `*` - 404 Page Not Found with link back to Home
-
-## Screenshots
 
 ### Home Page
 
